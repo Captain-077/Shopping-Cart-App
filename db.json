@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Motorola Moto e13 64 GB",
+      "description": "lorem ipsum",
+      "price": "6,499₹",
+      "img": "https://www.91-img.com/gallery_images_uploads/8/4/84c9d5ce5d1877e029e5afb35af9dececfc570ca.jpg?w=0&h=901&q=80&c=1",
+      "amount": 1
+    },
+    {
+      "id": "2",
+      "title": "a title",
+      "description": "lorem ipsum",
+      "price": 100,
+      "img": "https://d2xamzlzrdbdbn.cloudfront.net/products/e6c5f0b6-fd9e-49e6-b3b4-472bf6c6e33f24250638_182x182.jpg",
+      "amount": 1
+    },
+    {
+      "id": "3",
+      "title": "a title",
+      "description": "lorem ipsum",
+      "price": 100,
+      "img": "https://d2xamzlzrdbdbn.cloudfront.net/products/e6c5f0b6-fd9e-49e6-b3b4-472bf6c6e33f24250638_182x182.jpg",
+      "amount": 1
+    },
+    {
+        "id": "3",
+        "title": "a title",
+        "description": "lorem ipsum",
+        "price": 100,
+        "img": "https://d2xamzlzrdbdbn.cloudfront.net/products/e6c5f0b6-fd9e-49e6-b3b4-472bf6c6e33f24250638_182x182.jpg",
+        "amount": 1
+      },
+      {
+        "id": "3",
+        "title": "a title",
+        "description": "lorem ipsum",
+        "price": "100$",
+        "img": "https://d2xamzlzrdbdbn.cloudfront.net/products/e6c5f0b6-fd9e-49e6-b3b4-472bf6c6e33f24250638_182x182.jpg",
+        "amount": 1
+      }
+  ]
+}
