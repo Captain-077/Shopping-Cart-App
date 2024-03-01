@@ -13,7 +13,7 @@ function Home(props) {
 
 
     try {
-      const getProduct = await axios.get("http://localhost:3333/products");
+      const getProduct = await axios.get("https://captain-json-server.onrender.com/products");
       // console.log("hellllllllloooo", getProduct.data)
       setData(getProduct.data)
     }
