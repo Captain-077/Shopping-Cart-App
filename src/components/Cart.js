@@ -37,7 +37,7 @@ function Cart() {
               <div className="cart-content-box">
                 <h3 className='title'>{items.cartData.title}</h3>
                 <p className="decs">{items.cartData.description}</p>
-                <span className="price">{items.cartData.price}</span>
+                <span className="price">{items.cartData.price}₹</span>
               </div>
               <div className="quantity-box">
                 <button className="minus">-</button>
